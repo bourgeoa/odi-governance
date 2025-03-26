@@ -18,3 +18,19 @@ Timeline:
  - Voting period closes 11:59 PM (AOE), April 10, 2025
 
 ## Nominees
+### Alain Bourgeois
+Involved as a volunteer in Solid from 2019
+- first with tiddliwiki on solid then as co-author of solid-file-client
+- I then began to be involved in NSSv5 issues before remaining one of the main maintainers until now
+- in 2020 I begun to be involved in SolidOS and RdfLib and took reponsability of publishing NSS, SolidOS stack and RdfLib to npm
+- end 2021 I made the links migration from solid.community to solidcommunity.net
+- from 2022 on until early 2025 I was in charge of solidcommunity.net administration and tests servers
+- in february 2025 I did the data migration of Solidcommunity.net from NSS to Pivot a CSS flavor
+  Administration of solidcommunity.net is now done with ODI
+- I am still administering the test-server: pivot-test.solidproject.org
+  And documenting in https://github.com/solid/solidcommunity.net/wiki
+
+With the above implications I have Administrators rights or Member only rights on numerous solid github repos or npm packages.  
+I am a member of the solid-team group now CG group, SolidOS group and since its inception a member of the Solid Code Of Conduct Commmitee.
+
+I have no institutional affiliation and being a retiree no employer.  
